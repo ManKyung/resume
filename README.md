@@ -1,4 +1,4 @@
-# home
+# Home
 
 > A Vue.js project
 
