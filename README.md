@@ -1,6 +1,6 @@
 # Home
 
-> A Vue.js project
+> A Vue.js Resume
 
 ## Build Setup
 
