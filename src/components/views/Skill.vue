@@ -28,7 +28,7 @@
                                                         <div class="clearfix"></div>
                                                     <li>
                                                         <h6 class="resume-title">Design</h6>
-                                                        <p><strong>bootstrap 2.3 ~ 4.1(better)</strong>, flat design, material design</p>
+                                                        <p><strong>bootstrap 2.3 ~ 4.1(better)</strong>, material design</p>
                                                         <div class="clearfix"></div>
                                                     </li>
                                                     <li>
@@ -62,7 +62,7 @@
                                                 <ul class="skill-info">
                                                     <li>
                                                         <h6 class="resume-title">Language</h6>
-                                                        <p>PHP 5.x <small class="text-muted">(5 years)</small>, <strong>Golang  <small class="text-muted">(2 years)</small></strong><br/></p>
+                                                        <p>PHP 5.x <small class="text-muted">(5 years)</small>, <strong>Golang  <small class="text-muted">(1 years)</small></strong><br/></p>
                                                         <div class="clearfix"></div>
                                                     </li>
                                                     <li>

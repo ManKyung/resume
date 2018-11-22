@@ -48,9 +48,9 @@
                                     <h6 class="resume-meta">2016.07 ~ </h6>
                                     <p>Performance Counter Monitoring Alarm System Developmenet<br/>
                                     Language: Golang, C#, PHP<br/>
-                                    Front: Vue.js, Javascript, Jquery, Bootstrap 4.1, CSS3, SASS, NPM<br/>
+                                    Front: Vue.js, Javascript, Jquery, Bootstrap 4.1, CSS3, NPM<br/>
                                     DBMS: MariaDB, PostgreSql 9.4<br/>
-                                    NoSql: Redis, ElasticSearch, Splunk<br/>
+                                    NoSql: Redis, ElasticSearch<br/>
                                     Server: Ubuntu 14.x ~ 16.x<br/>
                                     ETC: AWS Infrastruct Architect, vscode, gitlab</p>
                                     Tags: <span class="badge badge-primary">PerformanceCounter</span>
@@ -100,7 +100,7 @@
                                     Etc: Apache, wireshark, ollydebuger</p>
                                     Tags: <span class="badge badge-primary">Web Hacking</span>
                                     <span class="badge badge-primary">Web Developer</span>
-                                    <span class="badge badge-primary">Tool Developer</span>
+                                    <span class="badge badge-primary">Admin Tool</span>
                                     <div class="clearfix"></div>
                                 </li>
                                 <li>
@@ -113,7 +113,60 @@
                                     Awards: 해킹방어대회 공군사령관 상</p>
                                     Tags: <span class="badge badge-primary">Web Hacking</span>
                                     <div class="clearfix"></div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <section class="module">
+                <div class="container-fluid container-custom">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <h6><div class="bs-callout">Toy Project.</div></h6>
+                        </div>
+                        <div class="col-sm-8">
+                            <ul class="resume-info">
+                                <li>
+                                    <h6 class="resume-title">Skill</h6>
+                                    <p>Vue js, Material UI, PWA, Canvas, Json</p><div class="clearfix"></div>
+                                </li>
+                                <li>
+                                    <h6 class="resume-title">HTML5 게임</h6>
+                                    <p><a href="https://f5game.kr" target="_blank">https://f5game.kr</a><br/>
+                                    Famobi에서 무료로 제공해주는 게임을 이용하여 HTML5게임 사이트 제작<div class="clearfix"></div>
+                                </li>
+                                <li>
+                                    <h6 class="resume-title">1 To 50</h6>
+                                    <p><a href="https://f5game.kr/game/1to50" target="_blank">https://f5game.kr/game/1to50</a><br/>
+                                    1 부터 50까지 순차적으로 클릭하는 순발력 게임</p>
                                     <div class="clearfix"></div>
+                                </li>
+                                <li>
+                                    <h6 class="resume-title">핑퐁</h6>
+                                    <p><a href="https://f5game.kr/game/pingpong" target="_blank">https://f5game.kr/game/pingpong</a><br/>
+                                    HTML5 게임 기초 제작 Mozilla 사이트에서 제공해주는 예제 실습 Canvas를 이용한 핑퐁게임</p>
+                                    <div class="clearfix"></div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="module">
+                <div class="container-fluid container-custom">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <h6><div class="bs-callout">Landing Project.</div></h6>
+                        </div>
+                        <div class="col-sm-8">
+                            <ul class="resume-info">
+                                <li>
+                                    <h6 class="resume-title">Mickey in Seoul</h6>
+                                    <p><a href="http://mickeyinseoul.com/" target="_blank">http://mickeyinseoul.com/</a><br/>
+                                    미키인 서울 캠페인 랜딩사이트 제작<div class="clearfix"></div>
                                 </li>
                             </ul>
                         </div>

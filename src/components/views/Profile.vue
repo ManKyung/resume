@@ -6,7 +6,7 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <h1>안녕하세요. <strong>정만경</strong> 입니다<br> Full Stack &amp; Front Developer</h1>
-                            <p>Nexon Korea 에서 성농모니터링 시스템 개발을 DevOps로 담당을 하고 있으며 풀스택이지만 프론트 개발을 하는 것을 가장 좋아합니다.</p>
+                            <p>Nexon Korea 에서 성능모니터링 시스템 개발을 DevOps로 담당을 하고 있으며 풀스택이지만 프론트 개발을 하는 것을 가장 좋아합니다.</p>
                         </div>
                     </div>
                 </div>
@@ -23,7 +23,9 @@
                                 <li>1988.06.01</li>
                                 <li>경기도 남양주</li>
                                 <li><a href="mailto:strikers1999@naver.com">strikers1999@naver.com</a></li>
-                                <li><a target="_blank" href="http://mysite.com">mysite.com</a></li>
+                                <li><a target="_blank" href="https://f5game.kr">https://f5game.kr</a></li>
+                                <li><a target="_blank" href="http://realmojo.tistory.com">http://realmojo.tistory.com</a></li>
+                                <li><a target="_blank" href="http://github.com/mankyung">http://github.com/mankyung</a></li>
                             </ul>
                         </div>
                     </div>
@@ -36,7 +38,7 @@
                             <h6><div class="bs-callout">Services.</div></h6>
                         </div>
                         <div class="col-sm-8">
-                            <p>Devops Developer, Front End, Back End, Infra Build., Full Stack, AWS, Hacker, RDB, NoSql, gitlab, vscode, Piano, Guitar, Composition, Music</p>
+                            <p>Devops Developer, Front End, Back End, Infra Build, Full Stack, AWS, Hacker, RDB, NoSql, gitlab, vscode, Piano, Guitar, Composition, Music</p>
                         </div>
                     </div>
 
